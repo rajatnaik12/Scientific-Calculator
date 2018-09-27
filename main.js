@@ -10,6 +10,6 @@ function changeSign(input) {
 } 
 
 function exit(){
-    var exitButton = document.findElementById("exit");
+    var exitButton = document.getElementById("exit");
     exitButton.style="visibility:hidden";
 }
