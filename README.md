@@ -1,3 +1,3 @@
-# Hello-World2
-Just a another repository.
-this is a another directoy
+# Scientic Calculator using HTML, CSS and JavaScript
+This is the Web Application of Scientific Calculator
+credit: Lively and educating YouTube channel.
